@@ -1,6 +1,5 @@
 # 🛡️ RugGuard
 
-![RugGuard Logo]([https://via.placeholder.com/150?text=RugGuard+Logo](https://pin.it/6P4hSCgxn)) 
 
 **Advanced memecoin rug pull detector for Solana tokens. Protect your investments with AI-powered analysis.**
 
