@@ -9,7 +9,7 @@
 [![NPM](https://img.shields.io/npm/v/rug-guard-dapp?color=blue)](https://www.npmjs.com/) ->
 [![License](https://img.shields.io/badge/license-MIT-gray)](https://opensource.org/licenses/MIT)
 
-[Join the Community](#) <!-- https://discord.com/invite/6gMjy6Z5u3
+[Join the Community](#) https://discord.com/invite/6gMjy6Z5u3
 ---
 
 ## Getting Started
@@ -17,7 +17,7 @@
 For innovative DeFi traders, RugGuard leverages AI and on-chain data to detect rug pulls in Solana memecoins.
 
 ### Setup
-yTo run locally:
+ To run locally:
 1. Clone this repo: `git clone https://github.com/piccassol/rug-guard-dapp.git`
 2. Install dependencies: `npm install`
 3. Create a `.env` file with API keys (see `.env.example`)
