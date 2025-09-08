@@ -1,0 +1,4 @@
+VITE_BIRDEYE_API_KEY=your_key_here
+VITE_OPENAI_API_KEY=your_key_here
+VITE_TWITTER_BEARER_TOKEN=optional_key_here
+REACT_APP_SOLANA_NETWORK=devnet
