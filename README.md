@@ -14,10 +14,10 @@
 
 ## Getting Started
 
-Used by innovative DeFi traders, RugGuard leverages AI and on-chain data to detect rug pulls in Solana memecoins.
+For innovative DeFi traders, RugGuard leverages AI and on-chain data to detect rug pulls in Solana memecoins.
 
-### Demo Setup
-This is a demo repository for RugGuard. To run locally:
+### Setup
+yTo run locally:
 1. Clone this repo: `git clone https://github.com/piccassol/rug-guard-dapp.git`
 2. Install dependencies: `npm install`
 3. Create a `.env` file with API keys (see `.env.example`)
