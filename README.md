@@ -1,4 +1,5 @@
 # 🛡️ RugGuard
+![download (70)](https://github.com/user-attachments/assets/277f7706-24f1-4ea3-b19f-466588357ebf)
 
 
 **Advanced memecoin rug pull detector for Solana tokens. Protect your investments with AI-powered analysis.**
