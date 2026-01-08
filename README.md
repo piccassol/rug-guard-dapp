@@ -6,7 +6,7 @@
 
 ---
 
-## Made by [Aurora.rift]  
+## Made by [qurora.rift]  
 [![NPM](https://img.shields.io/npm/v/rug-guard-dapp?color=blue)](https://www.npmjs.com/) ->
 [![License](https://img.shields.io/badge/license-MIT-gray)](https://opensource.org/licenses/MIT)
 
